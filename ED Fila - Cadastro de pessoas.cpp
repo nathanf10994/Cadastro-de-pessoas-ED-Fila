@@ -1,3 +1,9 @@
+/*
+Projeto de aprendizado usando Estrutura de dados tipo FILA para cadastro de pessoas
+Developed by Nathan Ferreira
+GitHub: nathanf10994
+*/
+
 #include <iostream>
 #include <locale.h>
 #include <windows.h>
